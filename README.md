@@ -9,6 +9,10 @@ Things you may want to cover:
 
 * Ruby version
 
+
+
+
+s
 * System dependencies
 
 * Configuration
